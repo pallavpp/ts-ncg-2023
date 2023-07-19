@@ -1,0 +1,24 @@
+{
+  "view": [
+    {
+      "name": "name1", 
+      "country": "country1", 
+      "indicator": "indicator1", 
+      "chartType": "chartType1", 
+      "startDate": "startDate1", 
+      "endDate": "endDate1", 
+      "timestamp": "timestamp1",
+      "id": 1
+    }, 
+    {
+      "name": "name2", 
+      "country": "country2", 
+      "indicator": "indicator2", 
+      "chartType": "chartType2", 
+      "startDate": "startDate2", 
+      "endDate": "endDate2", 
+      "timestamp": "timestamp2",
+      "id": 1
+    }
+  ]
+}
